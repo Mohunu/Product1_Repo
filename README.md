@@ -1,2 +1,2 @@
-# repofeb20
-repofeb20
+# This repository is created to habdle all work of product 1. This includes code and all related documentation of product 1.
+This repository will also contain all information related to product 1 reporting, health and future plans
